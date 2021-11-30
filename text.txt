@@ -1,0 +1,2 @@
+Hello Guys . Today here is the second day of studying python . We are learning various things in this . Python 
+is quite easy than java script . But here we have to care about our spaces and small mistakes
